@@ -30,7 +30,7 @@ window.MTEMI_CONFIG = {
   },
 
   ceo: {
-    name: "Joseph Mburu",
+    name: "George Mburu",
     title: "Founder & CEO — Mtemi Swift Rides",
     photoPlaceholder: true, // flip to false once a real portrait is added
   },
